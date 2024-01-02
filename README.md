@@ -1,2 +1,1 @@
 # solarcalculator
-# solarcalculator
