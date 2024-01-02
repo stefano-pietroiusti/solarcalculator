@@ -1,7 +1,7 @@
 {
   "name": "Solar Calculator",
   "short_name": "Solar",
-  "description": "A sample solar calculator.",
+  "description": "Solar Calculator PWA",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
